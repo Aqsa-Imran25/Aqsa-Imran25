@@ -1,71 +1,61 @@
 <h1 align="center">Hi 👋, I'm Aqsa Imran</h1>
 
 <h3 align="center">
-Full Stack Developer | React.js | Laravel
+Full Stack Developer | React.js | Laravel | PHP
 </h3>
+
+<p align="center">
+Passionate Full Stack Developer focused on building scalable web applications and modern user experiences.
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🌱 Learning advanced React.js and Laravel
+Experienced Full Stack Developer passionate about creating responsive, scalable, and user-friendly web applications. Skilled in frontend and backend technologies with strong problem-solving abilities and continuous learning mindset.
+
+* 🌱 Currently learning advanced React.js and Laravel
 * 💻 Building full stack web applications
-* 🎯 Passionate about frontend and backend development
+* 🎯 Focused on frontend and backend development
 * 📍 Rawalpindi, Pakistan
 * 📫 [aqsu1325@gmail.com](mailto:aqsu1325@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technical Stack
 
-### Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Bootstrap
-* Tailwind CSS
-
-### Backend
-
-* Laravel
-* REST APIs
-
-### Database
-
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
+| 🌿 Category             | 🧩 Technologies                                            |
+| ----------------------- | ---------------------------------------------------------- |
+| 🎨 Frontend             | HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS |
+| ⚙️ Backend              | PHP, Laravel, REST APIs                                    |
+| 💾 Database             | MySQL                                                      |
+| 🛠️ Tools               | Git, GitHub, VS Code, Postman                              |
+| 🔄 Version Control      | Git & GitHub                                               |
+| 📱 Deployment & Testing | XAMPP, Postman                                             |
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🛒 Ecommerce ShopNova
+## 🛒 Ecommerce ShopNova
 
-Ecommerce platform built using React.js and Laravel.
+Modern ecommerce platform built using React.js and Laravel with responsive UI and authentication features.
 
-### 💼 Job Portal
+## 💼 Job Portal
 
-Job portal system with authentication and admin features.
+Job portal management system with authentication, admin panel, and job management features.
 
-### 🛍️ Ecommerce Website
+## 🛍️ Ecommerce Website
 
-Responsive ecommerce application using JavaScript and PHP.
+Responsive ecommerce application developed using JavaScript, PHP, and MySQL.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/aqsaimran25/
 * GitHub: https://github.com/Aqsa-Imran25
 
 ---
 
-⭐ Always learning new technologies and building projects.
+⭐ Always learning new technologies and building real-world projects.
