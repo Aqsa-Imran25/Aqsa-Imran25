@@ -33,27 +33,5 @@ Experienced Full Stack Developer passionate about creating responsive, scalable,
 
 ---
 
-# 📌 Featured Projects
-
-## 🛒 Ecommerce ShopNova
-
-Modern ecommerce platform built using React.js and Laravel with responsive UI and authentication features.
-
-## 💼 Job Portal
-
-Job portal management system with authentication, admin panel, and job management features.
-
-## 🛍️ Ecommerce Website
-
-Responsive ecommerce application developed using JavaScript, and MySQL.
-
----
-
-# 🌐 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/aqsaimran25/
-* GitHub: https://github.com/Aqsa-Imran25
-
----
 
 ⭐ Always learning new technologies and building real-world projects.
