@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aqsa Imran</h1>
 
 <h3 align="center">
-Full Stack Developer | React.js | Laravel | PHP
+Full Stack Developer | React.js | Laravel
 </h3>
 
 <p align="center">
@@ -17,8 +17,6 @@ Experienced Full Stack Developer passionate about creating responsive, scalable,
 * 🌱 Currently learning advanced React.js and Laravel
 * 💻 Building full stack web applications
 * 🎯 Focused on frontend and backend development
-* 📍 Rawalpindi, Pakistan
-* 📫 [aqsu1325@gmail.com](mailto:aqsu1325@gmail.com)
 
 ---
 
@@ -27,7 +25,7 @@ Experienced Full Stack Developer passionate about creating responsive, scalable,
 | 🌿 Category             | 🧩 Technologies                                            |
 | ----------------------- | ---------------------------------------------------------- |
 | 🎨 Frontend             | HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS |
-| ⚙️ Backend              | PHP, Laravel, REST APIs                                    |
+| ⚙️ Backend              | Laravel, REST APIs                                    |
 | 💾 Database             | MySQL                                                      |
 | 🛠️ Tools               | Git, GitHub, VS Code, Postman                              |
 | 🔄 Version Control      | Git & GitHub                                               |
@@ -47,7 +45,7 @@ Job portal management system with authentication, admin panel, and job managemen
 
 ## 🛍️ Ecommerce Website
 
-Responsive ecommerce application developed using JavaScript, PHP, and MySQL.
+Responsive ecommerce application developed using JavaScript, and MySQL.
 
 ---
 
